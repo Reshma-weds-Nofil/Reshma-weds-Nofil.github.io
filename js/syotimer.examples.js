@@ -3,7 +3,7 @@ jQuery(function($){
     $('#simple-timer').syotimer({
         year: 2021,
         month: 07,
-        day: 28,
+        day: 25,
         hour: 11,
         minute: 30
     });
